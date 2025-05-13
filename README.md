@@ -18,7 +18,8 @@ You can view the original design of this landing page on Figma:
 
 ## 💼 Hire Me on Upwork
 If you'd like to work with me or have a project in mind, feel free to reach out via my Upwork profile:
-👉 Hire me on Upwork
+👉 Hire me on  Upworkhttps://www.upwork.com/freelancers/~0104d7ec50731e7bf1
+
 
 ## 📁 Features
 
