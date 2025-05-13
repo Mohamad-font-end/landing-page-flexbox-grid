@@ -15,6 +15,11 @@ Stay tuned for more features and visual upgrades coming soon!
 You can view the original design of this landing page on Figma:  
 👉 [View Figma Design](https://www.figma.com/file/8GEfD4dZrh1zRFp37VEmZt/Light-Webflow-Agency-Landingage-Template-by-FasterUI.com--Community---Copy-?type=design&node-id=0%3A1&t=xxxxx)
 
+
+## 💼 Hire Me on Upwork
+If you'd like to work with me or have a project in mind, feel free to reach out via my Upwork profile:
+👉 Hire me on Upwork
+
 ## 📁 Features
 
 - Clean and modern layout  
