@@ -8,7 +8,6 @@
     box-sizing: border-box;
     list-style: none;
     text-decoration: none;
-
 }
 
 body {
@@ -869,22 +868,19 @@ input {
 }
 
 footer {
-    
-    position: relative;
-    bottom: 250px;
+
     width: 100%;
     height: 100%;
     background-image: url("backgourond/Group-527177.png");
     background-repeat: no-repeat;
-    background-position: center -340px;
+    background-position: center -300px;
     background-size: 100%;
-    z-index: 1;
     pointer-events: none;
 }
 
 
 .last-section {
-    margin-top: 340px;
+    margin-top: 140px;
     margin-bottom: 50px;
     margin-left: 80px;
     margin-right: 50px;
@@ -892,4 +888,56 @@ footer {
     height: 305px;
     background-color: rgba(255, 255, 255, 0.836);
     border-radius: 20px;
+    border: none;
+    outline: 0.4px solid black;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding-right: 55px;
+    padding-top: 64px;
+    padding-left: 55px;
+    padding-bottom: 60px;
+
+}
+
+.logo-gi {}
+
+.text-p p {
+    margin-top: 29px;
+    font-weight: 200;
+    font-family: "Inter", sans-serif;
+    font-size: 13px;
+}
+
+.span-mod span {
+    margin-top: 48px;
+    font-weight: 200;
+    font-size: 13px;
+    font-family: "Inter", sans-serif;
+    position: relative;
+    top: 20px;
+    right: 45px;
+}
+
+.links {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+
+}
+
+.links ul {
+
+    display: flex;
+    margin-right: 55px;
+}
+
+.links a {
+
+    font-weight: 200;
+    font-size: 13px;
+    font-family: "Inter", sans-serif;
+    color: black;
+    margin-left: 20px;
+
 }
